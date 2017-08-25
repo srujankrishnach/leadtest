@@ -13,4 +13,5 @@ error_log(print_r($input, true));
 
 //header('Location: http://192.168.64.1:9090/fbtest/getData.jsp?var1='.$var1.'&var2='.$var2);
 //exit;
+
 ?> 
